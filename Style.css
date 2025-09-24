@@ -182,7 +182,7 @@ h1 {
     justify-content: center; /* Centraliza os botões no contêiner */
     gap: 15px; /* Adiciona um espaço entre os botões */
     width: 100%;
-    margin-top:350px; /* Adiciona um espaço acima dos botões */
+    margin-top:300px; /* Adiciona um espaço acima dos botões */
 }
     .convite-button {
     padding: 12px 25px;
